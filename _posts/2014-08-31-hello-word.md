@@ -1,5 +1,5 @@
 ---
-title: Curing my Illiteracy 
+title: Ending my Illiteracy 
 featured: /assets/images/chinese.jpg
 layout: post
 ---
